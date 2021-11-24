@@ -1,0 +1,1 @@
+Repositório criado para armazenar implementações de projetos de redes de computadores, feitas utilizando o programa Packet Tracer, desenvolvidos como trabalhos da disciplina Redes de Computadores II.
